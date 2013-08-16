@@ -3,6 +3,8 @@ Cuis-HttpView2
 
 HttpView2 is a lightweight web framework based on KomHttpServer
 
+CAUTION: This is an early stage of the port, still work in progress.
+
 For more information see:
 
 http://map.squeak.org/packagebyname/httpview2
